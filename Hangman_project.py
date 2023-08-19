@@ -1,4 +1,5 @@
-#this code was written as a Python mini-project submission, with two other classmates.
+#this code was written as a Python mini-project submission, with two other classmates
+#Words.txt contains the words that are used to randomly generate one for playing the game
 
 import random
 
